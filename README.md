@@ -8,3 +8,5 @@ Analysing the dataset and building a decision tree classifier we can come up wit
 *Is there a certain demographic group that is at higher risk of heart disease than others? 
 *Does frequent exercise lower the risk of developing heart disease? 
 *Are smokers more likely to develop heart disease than non-smokers?
+
+
